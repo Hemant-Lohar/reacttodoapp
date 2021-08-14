@@ -1,38 +1,66 @@
-.App {
+body {
+  background: #120E43;
+  font-size: 18px;
+}
+.logo {
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.App-title {
+  color: #fff;
   text-align: center;
+  font-size: 50px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container {
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.input-text {
+  border: none;
+  padding: 8px;
+  border-radius: 5px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.add-btn {
+  background: #383CC1;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 5px;
+  color: #fff;
+  margin-left: 20px;
+
 }
 
-.App-link {
-  color: #61dafb;
+.btn {
+  background: #E21717;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 5px;
+  color: #fff;
+  margin-left: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.list ul{
+  list-style-type: none;
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.list ul li{
+  background: #ffffff;
+  color: #000;
+  font-size: 20px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  text-align: left;
 }

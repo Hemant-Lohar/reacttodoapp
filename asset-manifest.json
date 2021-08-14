@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacttodoapp/static/css/main.4983e21f.chunk.css",
+    "main.js": "/reacttodoapp/static/js/main.f33f3e0f.chunk.js",
+    "main.js.map": "/reacttodoapp/static/js/main.f33f3e0f.chunk.js.map",
+    "runtime-main.js": "/reacttodoapp/static/js/runtime-main.ee9bf03a.js",
+    "runtime-main.js.map": "/reacttodoapp/static/js/runtime-main.ee9bf03a.js.map",
+    "static/js/2.d063710f.chunk.js": "/reacttodoapp/static/js/2.d063710f.chunk.js",
+    "static/js/2.d063710f.chunk.js.map": "/reacttodoapp/static/js/2.d063710f.chunk.js.map",
+    "static/js/3.c4968a79.chunk.js": "/reacttodoapp/static/js/3.c4968a79.chunk.js",
+    "static/js/3.c4968a79.chunk.js.map": "/reacttodoapp/static/js/3.c4968a79.chunk.js.map",
+    "index.html": "/reacttodoapp/index.html",
+    "static/css/main.4983e21f.chunk.css.map": "/reacttodoapp/static/css/main.4983e21f.chunk.css.map",
+    "static/js/2.d063710f.chunk.js.LICENSE.txt": "/reacttodoapp/static/js/2.d063710f.chunk.js.LICENSE.txt",
+    "static/media/LCO-logo-white.b9eb8ceb.png": "/reacttodoapp/static/media/LCO-logo-white.b9eb8ceb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee9bf03a.js",
+    "static/js/2.d063710f.chunk.js",
+    "static/css/main.4983e21f.chunk.css",
+    "static/js/main.f33f3e0f.chunk.js"
+  ]
+}
